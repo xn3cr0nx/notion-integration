@@ -1,2 +1,3 @@
-# notion-crypto-integration
-Leverage Notion API to improve your web experience
+# notion-integration
+
+Refactored integration designed to sync my Finance Tracker template, including cryptos, stocks and bank operations.
